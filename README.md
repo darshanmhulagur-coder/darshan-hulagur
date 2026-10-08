@@ -1,5 +1,5 @@
 <a href="https://github.com/darshan-hulagur">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+There!+Iam Darshan+%F0%9F%90%8B;CSE+Student+Developer;Building+Cool+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+There!+IamDarshan%F0%9F%90%8B;CSE+Student+Developer;Building+Cool+Projects" alt="Typing SVG" />
 </a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,5,8,20&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontAlignY=35" width="100%" />
 <p align="center">
